@@ -44,5 +44,13 @@ graph LR
    ```bash
    !git clone https://github.com/didilovu/Software-for-self-positioning.git  
 
-2. Установить необходимые библиотеки
-3. Запустить файл Calculate_my_coords.py
+2. Переход в директорию
+    ```bash
+    cd Software-for-self-positioning
+
+3. Установить необходимые библиотеки
+
+
+4. Запустить скрипт
+    ```bash
+    !Calculate_my_coords.py
