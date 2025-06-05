@@ -46,7 +46,7 @@ graph LR
 
 2. Переход в директорию
     ```bash
-    cd Software-for-self-positioning
+    !cd Software-for-self-positioning
 
 3. Установить необходимые библиотеки
 
